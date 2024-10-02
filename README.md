@@ -36,3 +36,6 @@
 ![grdp](https://github.com/user-attachments/assets/de09b81e-f939-4852-b0e6-70d598a3364a)\
 지역GRDP(지역내총생산(명목가격))과 총 방문자 수를 Standardscaler를 사용하여 0과 1사이로 정규화하고 그 합산 값이 가장 적은 지역을 선정
 → 밀양시 선정
+
+## 결과 : 관광코스 추천 경로 ##
+![image](https://github.com/user-attachments/assets/27f3c1cb-171c-4e3c-953d-aece427a64a4)
